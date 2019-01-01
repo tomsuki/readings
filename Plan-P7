@@ -1,0 +1,117 @@
+- Grad school
+  - follow https://www.cs.cornell.edu/courses/cs4110/2018fa/
+  - TAPL / PFPL / Types and Proofs
+  - language implementation books
+- algorithms
+  - https://www.cs.cornell.edu/courses/cs3110/2018fa/
+  - okasaki book
+  - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+- Computability theory
+  - sipser book
+  - papers
+- math
+  - logic => learning logic 2017
+  - linear algebra
+  - abstract algebra
+  - set topology
+  - category theory
+  - category in context as a forcing function => .. 
+- papers
+- haskell
+  - libs
+
+- languages: { lisp, rust }
+- toolset: { git, emacs, nix }
+
+Detailed:
+
+4 tracks
+
+1. Math:
+  * Emily Rhiel : category in context
+  * Steve Awodey : Category theory
+  * Offshoots (examples) from category in context
+
+2. Logic:
+  * Learn logic in 2017.
+  * peter smith - An introduction to formal logic <first>
+
+3. CS:
+  * Algorithms : < ocaml, rust (??) >
+  * ToC
+
+4. Grad CS:
+  * PFLA : <agda>
+  * Software foundations : <coq>
+  * TAPL
+
+5. Data science:
+  * Databases { MSSQL, Postgres, Mysql, sqlite }
+  * Big data toolset
+  * Andrew Ng course
+  * Math necessary
+
+Daily 1 hr: 
+T T   :=> { 1 }
+M F   :=> { 3 }
+W     :=> { 2 }
+
+Misc 1 hr daily:
+{ haskell
+, emacs + elisp
+, nix
+, git
+, investigation into different languages
+  - strengths and weakness
+  - candidates for investigation
+    { scala { akka, other scala stuff }
+    , erlang { distributed, hot reloading etc }
+    , go { concurrency, channels }
+    , R { statistics }
+    , Rust { all good things }
+    , ruby { high level-ness }
+    , js { react, rx related } }
+    , clojure { homoiconicity, dsl embedding }
+    , prolog { logic programming }
+    , java { .. just learn something useful / for reading java code etc. }
+    , C# { .. same ?, async await kind of stuff? }
+    }
+
+- learning a language
+  - read a feature
+  - write parsers
+  - read popular libraries
+  - write something useful
+}
+
+3 hrs
+Sa :=> { 4 }
+
+3 hrs
+Su :=> { 5 }
+
+
+misc:
+
+* emacs	
+* haskell
+  - lib based
+    * base, bytestring, text, unordered-containers, containers, async [ marlow book ], lens, stream libs
+  - papers [abstractions / techniques ]
+    * [ .. ]
+  - core & stg, performance analysis
+  - code
+    * haskell-ide-engine
+* rust
+  - rust book
+
+* clojure
+  - .. learn whatever it is
+
+* nix
+* git
+* own-projects
+  * hedit - haskell text editor
+  * redit - rust text editor
+  * troy  - {strict, polymorphic lambda calculus, row types }
+  * experiments with dependently typed languages
